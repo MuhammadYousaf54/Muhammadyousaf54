@@ -20,22 +20,22 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadyousaf54&theme=radical" />
 </p>
-### 🚀 Tech Stack
+ 🚀 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,js,ts,tailwind,docker,aws" />
 </p>
-### 👨‍💻 About Me
+ 👨‍💻 About Me
 
 - 🔭 Working on MERN & AI Automation Projects  
 - 🌍 Serving clients globally (Dubai, Australia, Remote)  
 - ⚡ Built 40+ projects  
 - 🤖 Automating businesses using AI & APIs
 
-  ### 📌 Featured Projects
+   📌 Featured Projects
 
 - 🚀 Logistics Management System (Dubai)
 - 🛒 MERN E-commerce Platform
 - 🤖 AI CRM Automation System
 - 📊 Real-Time Analytics Dashboard
-- ![snake gif](https://github.com//MuhammadYousaf54/blob/output/github-contribution-grid-snake.svg)
+  (https://github.com//MuhammadYousaf54/blob/output/github-contribution-grid-snake.svg)
