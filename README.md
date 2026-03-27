@@ -32,8 +32,8 @@ I am a high-impact **Full Stack Developer (MERN)** and **AI Automation Specialis
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadyousaf54&show_icons=true&theme=tokyonight&count_private=true" alt="Yousaf's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadyousaf54&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadyousaf54&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Yousaf's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadyousaf54&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
