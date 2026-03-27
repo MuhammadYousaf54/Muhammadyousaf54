@@ -1,22 +1,16 @@
-# Hi there, I'm Muhammad Yousaf Manzoor 👋
-### Full Stack Developer | AI Automation Specialist | MERN Engineer
-
-<p align="left">
-  <a href="https://muhammadyousaf.vercel.app/" target="_blank">🌐 Portfolio</a> •
-  <a href="https://linkedin.com/in/muhammad-yousaf-542b63239" target="_blank">🔗 LinkedIn</a> •
-  <a href="mailto:your-email@example.com">📩 Get In Touch</a>
+<h1 align="center">Hi 👋, I'm Muhammad Yousaf</h1>
+<h3 align="center">Full Stack Developer | MERN Engineer | AI Automation Specialist</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;MERN+Engineer;AI+Automation+Specialist" />
 </p>
-
----
-
-### 🚀 Professional Summary
-I am a high-impact **Full Stack Developer (MERN)** and **AI Automation Specialist** with 3+ years of experience. I specialize in building scalable SaaS platforms and data-driven applications that drive results.
-
-* **Impact:** Delivered 40+ global projects.
-* **Efficiency:** Reduced manual business operations by up to **60%** through AI integrations.
-* **Performance:** Improved application speeds by **30–50%** via optimized engineering.
-
----
+<p align="center">
+  <a href="https://linkedin.com/in/muhammad-yousaf-542b63239">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Muhammadyousaf54">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ### 🛠️ Core Tech Stack
 
@@ -30,17 +24,8 @@ I am a high-impact **Full Stack Developer (MERN)** and **AI Automation Specialis
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadyousaf54&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Yousaf's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadyousaf54&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
-</p>
 
----
 
-### 🌟 Key Featured Projects
-* **Logistics Management System (Dubai)**: Optimized backend for delivery tracking, improving efficiency by **35%**.
-* **Real Estate CRM**: Automated tenant onboarding, cutting administrative workload by **50%**.
 * **AI Flight Assistant**: Integrated AI chatbots to reduce customer support tickets by **40%**.
 * **MERN E-commerce**: Scalable architecture with full order lifecycle management.
 
@@ -50,6 +35,14 @@ I am a high-impact **Full Stack Developer (MERN)** and **AI Automation Specialis
 * 📍 **Location:** Remote (Open to Dubai | US | Global)
 * 💬 Ask me about **MERN Stack, AI Automations, or Next.js Architecture**.
 * ⚡ Fun Fact: I enjoy turning complex manual workflows into 1-click automated systems.
+
+  
+  ### 📌 Featured Projects
+
+- 🚀 Logistics Management System (Dubai)
+- 🛒 MERN E-commerce Platform
+- 🤖 AI CRM Automation System
+- 📊 Real-Time Analytics Dashboard
 
 <p align="left">
   <a href="https://linkedin.com/in/muhammad-yousaf-542b63239"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
